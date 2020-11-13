@@ -162,4 +162,4 @@ try:
 except Exception as e:
     logging.error(e)
 
-test.before_exit()
+input("Press Enter to exit...")
